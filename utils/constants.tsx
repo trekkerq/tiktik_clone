@@ -64,7 +64,7 @@ export const topics = [
     icon: <IoPeopleCircleSharp  />,
   },
   {
-    name: 'shopping',
+    name: 'personal-shopper',
     icon: <AiOutlineShoppingCart  />,
   },
   {
