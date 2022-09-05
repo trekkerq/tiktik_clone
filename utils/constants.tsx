@@ -6,7 +6,8 @@ import { SiDrupal } from "react-icons/si"
 import { IoPeopleCircleSharp } from 'react-icons/io5';
 import { AiOutlineShoppingCart } from 'react-icons/ai';
 import { ImLab } from 'react-icons/im'
-import { FcServices } from 'react-icons/fc'
+import { FcServices } from 'react-icons/fc';
+import { FaStudiovinari } from 'react-icons/fa';
 
 export const topics = [
   {
@@ -73,7 +74,11 @@ export const topics = [
   {
     name: 'sowande-aisha-company',
     icon: <FcServices  />,
-  },
+  },   
+  {
+    name: 'yayyay-animations',
+    icon: <FaStudiovinari  />,
+  }
 
   
 ];
