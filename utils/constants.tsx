@@ -56,7 +56,7 @@ export const topics = [
     icon: <GiPoloShirt />,
   },
   {
-    name: 'govtech',
+    name: 'govtech-fedSaaS',
     icon: <SiDrupal />,
   },
   {
