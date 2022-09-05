@@ -19,7 +19,7 @@ export const topics = [
     icon: <FaGamepad />,
   },
   {
-    name: 'food',
+    name: 'foodie',
     icon: <GiCakeSlice />,
   },
   {
@@ -27,7 +27,7 @@ export const topics = [
     icon: <GiGalaxy />,
   },
   {
-    name: 'beauty',
+    name: 'style',
     icon: <GiLipstick />,
   },
   {
