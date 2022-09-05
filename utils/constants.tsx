@@ -58,6 +58,10 @@ export const topics = [
   {
     name: 'shopping',
     icon: <AiOutlineShoppingCart  />,
+  },
+  {
+    name: 'gig-hustler-apps',
+    icon: <FcAndroidOs  />,
   }
 ];
 
