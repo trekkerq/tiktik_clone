@@ -6,6 +6,7 @@ import { SiDrupal } from "react-icons/si"
 import { IoPeopleCircleSharp } from 'react-icons/io5';
 import { AiOutlineShoppingCart } from 'react-icons/ai';
 import { ImLab } from 'react-icons/im'
+import { FcServices } from 'react-icons/fc'
 
 export const topics = [
   {
@@ -63,12 +64,17 @@ export const topics = [
   {
     name: 'gig-hustler-apps',
     icon: <FcAndroidOs  />,
-  },
-  
+  },  
   {
     name: 'collab',
     icon: <ImLab  />,
   },
+   
+  {
+    name: 'sowande-aisha-company',
+    icon: <FcServices  />,
+  },
+
   
 ];
 
