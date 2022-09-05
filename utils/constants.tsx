@@ -1,6 +1,6 @@
 import { BsCode, BsEmojiSunglasses } from 'react-icons/bs';
 import { GiCakeSlice, GiGalaxy, GiLipstick, GiPoloShirt } from 'react-icons/gi';
-import { FaPaw, FaMedal, FaGamepad } from 'react-icons/fa';
+import { FaPaw, FaMedal, FaGamepad, FaUmbrellaBeach } from 'react-icons/fa';
 import { FcAndroidOs, FcShop, FcTwoSmartphones, FcVideoCall, FcSportsMode, FcVoicePresentation } from "react-icons/fc";
 import { SiDrupal } from "react-icons/si"
 import { IoPeopleCircleSharp } from 'react-icons/io5';
@@ -83,6 +83,10 @@ export const topics = [
   {
     name: 'yay-yay-animations',
     icon: <FaStudiovinari  />,
+  }  ,   
+  {
+    name: 'tyrus-travel',
+    icon: <FaUmbrellaBeach  />,
   }
 
   
