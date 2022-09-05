@@ -47,6 +47,11 @@ export const topics = [
     icon: <FcSportsMode />
   },
   {
+    name: 'nil-apps',
+    icon: <FcVoicePresentation />,
+  },
+  
+  {
     name: 'rlvintage',
     icon: <GiPoloShirt />,
   },
