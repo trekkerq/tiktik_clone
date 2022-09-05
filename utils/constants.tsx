@@ -62,5 +62,5 @@ export const topics = [
 ];
 
 export const footerList1 = ['About YayYay', 'HBCU', 'Bespoke Store', 'NicheTech', 'SportsTech', 'GovTech', 'Adobe Experience Makers']
-export const footerList2 = [ 'YayYay for Good','Animation Studio','Tyrus Designer|Developer','Transparency','YayYay Rewards' ]
+export const footerList2 = [ 'YayYay for Good','Animation Studio','Tyrus Designer|Developer:Ty Collington','Transparency','YayYay Rewards' ]
 export const footerList3 = [ 'Help', 'Safety', 'Terms', 'Privacy', 'Creator Portal', 'Community Guidelines' ]
