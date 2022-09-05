@@ -1,7 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
+    reactStrictMode: true,
+    swcMinify: true,
+    images: {
+        domains: ['tyrus.design', 'lh3.googleusercontent.com'],
+    }
 }
 
 module.exports = nextConfig
