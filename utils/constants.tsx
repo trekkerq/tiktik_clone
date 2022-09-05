@@ -27,7 +27,7 @@ export const topics = [
     icon: <GiCakeSlice />,
   },
   {
-    name: 'dance',
+    name: 'music',
     icon: <GiGalaxy />,
   },
   {
@@ -35,7 +35,7 @@ export const topics = [
     icon: <GiLipstick />,
   },
   {
-    name: 'animals',
+    name: 'nature',
     icon: <FaPaw />,
   },
   {
