@@ -76,7 +76,7 @@ export const topics = [
     icon: <FcServices  />,
   },   
   {
-    name: 'yayyay-animations',
+    name: 'yay-yay-animations',
     icon: <FaStudiovinari  />,
   }
 
