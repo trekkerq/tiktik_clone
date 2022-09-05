@@ -1,7 +1,9 @@
 import { BsCode, BsEmojiSunglasses } from 'react-icons/bs';
-import { GiCakeSlice, GiGalaxy, GiLipstick } from 'react-icons/gi';
+import { GiCakeSlice, GiGalaxy, GiLipstick, GiPoloShirt } from 'react-icons/gi';
 import { FaPaw, FaMedal, FaGamepad } from 'react-icons/fa';
 import { FcAndroidOs, FcShop, FcTwoSmartphones, FcVideoCall, FcSportsMode, FcVoicePresentation } from "react-icons/fc";
+import { SiDrupal } from "react-icons/si"
+import { IoPeopleCircleSharp } from 'react-icons/io5'
 
 export const topics = [
   {
@@ -36,6 +38,22 @@ export const topics = [
     name: 'sports',
     icon: <FaMedal />,
   },
+  {
+    name: 'hbcu',
+    icon: <FcSportsMode />
+  },
+  {
+    name: 'rlvintage',
+    icon: <GiPoloShirt />,
+  },
+  {
+    name: 'govtech',
+    icon: <SiDrupal />,
+  },
+  {
+    name: 'faithworks',
+    icon: <IoPeopleCircleSharp  />
+  }
 ];
 
 export const footerList1 = ['About YayYay', 'HBCU', 'Bespoke Store', 'NicheTech', 'SportsTech', 'GovTech', 'Adobe Experience Makers']
