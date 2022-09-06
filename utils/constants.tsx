@@ -43,7 +43,7 @@ export const topics = [
     icon: <FaMedal />,
   },
   {
-    name: 'hbcu',
+    name: 'HBCU',
     icon: <FcSportsMode />
   },
   {
