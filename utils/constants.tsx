@@ -47,7 +47,7 @@ export const topics = [
     icon: <FcSportsMode />
   },
   {
-    name: 'nil-sports-athlete-apps',
+    name: 'nIL-Bespoke-Apps',
     icon: <FcVoicePresentation />,
   },
   
